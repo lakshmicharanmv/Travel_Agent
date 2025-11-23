@@ -1,4 +1,4 @@
-echo "# Travel Companion AI
+Travel Companion AI
 
 A modern, AI-powered travel companion that helps you plan your perfect journey with smart destination suggestions, weather information, local attractions, and more.
 
@@ -79,4 +79,5 @@ Project Link: [https://github.com/yourusername/travel-companion](https://github.
 
 - [Tailwind CSS](https://tailwindcss.com/) for the amazing utility-first CSS framework
 - [React Icons](https://react-icons.github.io/react-icons/) for the beautiful icons
+
 - [OpenAI](https://openai.com/) for the powerful AI capabilities" > README.md
