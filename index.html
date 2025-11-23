@@ -663,7 +663,7 @@
                     </nav>
                 </div>
                 <div className="flex flex-col gap-4">
-                    <button onClick={onOpenSettings} className="p-2 hover:bg-white/20 rounded-xl transition text-gray-600 dark:text-gray-300"><i data-lucide="settings" className="w-5 h-5"></i></button>
+                    <button onClick={onOpenSettings} className="p-2 hover:bg-white/20 rounded-xl transition text-gray-600 dark:text-gray-300 hidden"><i data-lucide="settings" className="w-5 h-5"></i></button>
                     <button onClick={() => setDarkMode(!darkMode)} className="p-2 hover:bg-white/20 rounded-xl transition text-gray-600 dark:text-gray-300"><i data-lucide={darkMode ? "sun" : "moon"} className="w-5 h-5"></i></button>
                 </div>
             </div>
